@@ -1,0 +1,74 @@
+name: test1
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.5 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/test1/assets/images/combinedshape.png
+    - packages/test1/assets/images/iconspaceprivate25px.svg
+    - packages/test1/assets/images/shape.svg
+    - packages/test1/assets/images/image2.png
+    - packages/test1/assets/images/image3.png
+    - packages/test1/assets/images/ellipse2.png
+    - packages/test1/assets/images/ellipse3.png
+    - packages/test1/assets/images/ellipse4.png
+    - packages/test1/assets/images/ellipse5.png
+    - packages/test1/assets/images/ellipse6.png
+    - packages/test1/assets/images/line3.svg
+    - packages/test1/assets/images/line4.svg
+    - packages/test1/assets/images/ellipse7.png
+    - packages/test1/assets/images/image7.png
+    - packages/test1/assets/images/image8.png
+    - packages/test1/assets/images/image10.png
+    - packages/test1/assets/images/image4.png
+    - packages/test1/assets/images/line1.svg
+    - packages/test1/assets/images/line2.svg
+    - packages/test1/assets/images/image5.png
+    - packages/test1/assets/images/image6.png
+    - packages/test1/assets/images/image9.png
+    - packages/test1/assets/images/image11.png
+    - packages/test1/assets/images/image12.png
+    - packages/test1/assets/images/image14.png
+    - packages/test1/assets/images/image15.png
+    - packages/test1/assets/images/image16.png
+    - packages/test1/assets/images/image17.png
+    - packages/test1/assets/images/image13.png
+    - packages/test1/assets/images/ellipse8.png
+    - packages/test1/assets/images/ellipse10.png
+    - packages/test1/assets/images/ellipse9.png
+    - packages/test1/assets/images/ellipse11.png
+    - packages/test1/assets/images/line5.svg
+    - packages/test1/assets/images/line6.svg
+    - packages/test1/assets/images/line7.svg
+    - packages/test1/assets/images/ellipse14.png
+    - packages/test1/assets/images/ellipse16.png
+    - packages/test1/assets/images/ellipse15.png
+    - packages/test1/assets/images/polygon1.svg
+    - packages/test1/assets/images/polygon4.svg
+    - packages/test1/assets/images/line8.svg
+    - packages/test1/assets/images/image21.png
+    - packages/test1/assets/images/image23.png
+    - packages/test1/assets/images/image22.png
+    - packages/test1/assets/images/image24.png
+    - packages/test1/assets/images/image18.png
+    - packages/test1/assets/images/image25.png
+    - packages/test1/assets/images/image20.png
+    - packages/test1/assets/images/image26.png
+    - packages/test1/assets/images/ellipse12.png
+    - packages/test1/assets/images/ellipse13.png
+    - packages/test1/assets/images/polygon7.svg
+    - packages/test1/assets/images/polygon8.svg
